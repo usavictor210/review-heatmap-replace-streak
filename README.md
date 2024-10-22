@@ -1,12 +1,13 @@
 <p align="center"><img src="https://github.com/glutanimate/review-heatmap/raw/main/screenshots/0.7.0_regular_year.png"></p>
 
-<h2 align="center">Review Heatmap for Anki</h2>
+<h2 align="center">Review Heatmap Switch Streak modification</h2>
 
 <p align="center">
 <a title="Latest (pre-)release" href="https://github.com/glutanimate/review-heatmap/releases"><img src ="https://img.shields.io/github/release-pre/glutanimate/review-heatmap.svg?colorB=brightgreen"></a>
 <a title="License: GNU AGPLv3" href="https://github.com/glutanimate/review-heatmap/blob/main/LICENSE"><img  src="https://img.shields.io/badge/license-GNU AGPLv3-green.svg"></a>
 <a title="Rate on AnkiWeb" href="https://ankiweb.net/shared/info/1771074083"><img src="https://glutanimate.com/logos/ankiweb-rate.svg"></a>
 <br>
+<p>Support the original developer if you want:</p>
 <a title="Buy me a coffee :)" href="https://ko-fi.com/X8X0L4YV"><img src="https://img.shields.io/badge/ko--fi-contribute-%23579ebd.svg"></a>
 <a title="Support me on Patreon :D" href="https://www.patreon.com/bePatron?u=7522179"><img src="https://img.shields.io/badge/patreon-support-%23f96854.svg"></a>
 <a title="Follow me on Twitter" href="https://twitter.com/intent/user?screen_name=glutanimate"><img src="https://img.shields.io/twitter/follow/glutanimate.svg"></a>
@@ -15,6 +16,8 @@
 > Your learning performance at a glance
 
 Adds a **heatmap graph** to [Anki](https://apps.ankiweb.net/)'s main window which visualizes past and future card review activity, similar to the contribution view on GitHub. Information on the **current streak** is displayed alongside the heatmap. Clicking on an item shows the cards reviewed on that day.
+
+This fork aims to add additional functionality to the current streak statistic if you don't like it. Of course, this is up to your own discretion. Everything else in this markdown file apart from this section and title has not been changed. I might change a bit more here and there but most of this is essentially unchanged from the original addon.
 
 <!-- MarkdownTOC -->
 
